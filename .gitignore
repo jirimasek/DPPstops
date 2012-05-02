@@ -1,0 +1,5 @@
+build/web/WEB-INF/classes
+build
+dist
+nbproject
+build.xml
